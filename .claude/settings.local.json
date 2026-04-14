@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(rm \"c:/Users/SwethaNethmi/Desktop/Todo_CleanArchitecture/Todo.Application/Class1.cs\")",
-      "Bash(rm \"c:/Users/SwethaNethmi/Desktop/Todo_CleanArchitecture/Todo.Infrastructure/Class1.cs\")"
-    ]
-  }
-}
